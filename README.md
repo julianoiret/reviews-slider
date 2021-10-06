@@ -1,4 +1,6 @@
-# react-projects-7-slider
+# React project
+
+![screenshot](images/screenshot-reviews-slider.png)
 
 #### IN ACTION
 
