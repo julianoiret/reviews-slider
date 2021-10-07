@@ -2,6 +2,8 @@
 
 ![screenshot](images/screenshot-reviews-slider.png)
 
-#### IN ACTION
+### Go to website // IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+[Website project](https://reviews-slider-react-js.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c6f28785-c252-47eb-b04f-aca12bcf99b7/deploy-status)](https://app.netlify.com/sites/reviews-slider-react-js/deploys)
